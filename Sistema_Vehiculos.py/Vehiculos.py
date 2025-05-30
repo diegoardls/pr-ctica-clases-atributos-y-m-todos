@@ -11,4 +11,4 @@ class Vehiculo:
 
     def Años_desde_que_salio(self):
         self.año += 1
-        print(f"El {self.marca} tiene ahora {self.año} años")
+        print(f"El {self.marca} salio en el año {self.año} y ahora tiene un año desde que salio")
